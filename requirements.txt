@@ -1,0 +1,5 @@
+google-adk==2.7.0
+crewai==1.15.16
+pydantic-ai==2.31.0
+a2a-sdk==1.1.2
+fastmcp==3.4.7
